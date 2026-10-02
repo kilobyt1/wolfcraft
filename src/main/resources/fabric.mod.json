@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "wolfcraft",
+	"version": "${version}",
+	"name": "WolfCraft",
+	"description": "Return to Castle Wolfenstein weapons, soldiers, and outposts in Minecraft 1.21",
+	"authors": [
+		"Victor & Antigravity"
+	],
+	"contact": {
+		"sources": "https://github.com/kilobyt1/wolfcraft"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/wolfcraft/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.wolfcraft.WolfCraftMod"
+		],
+		"client": [
+			"com.wolfcraft.client.WolfCraftClient"
+		]
+	},
+	"mixins": [
+		"wolfcraft.mixins.json",
+		{
+			"config": "wolfcraft.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

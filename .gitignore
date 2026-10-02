@@ -1,0 +1,94 @@
+# ==========================================
+# Gradle & Build Artifacts
+# ==========================================
+.gradle/
+build/
+out/
+classes/
+bin/
+.loom/
+.fabric/
+
+# ==========================================
+# IDEs & Editors
+# ==========================================
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.settings/
+.classpath
+.project
+*.launch
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# ==========================================
+# Minecraft & Fabric Run
+# ==========================================
+run/
+crash-reports/
+logs/
+stats/
+saves/
+screenshots/
+
+# ==========================================
+# Java & JVM
+# ==========================================
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+*.class
+
+# ==========================================
+# Operating System Junk
+# ==========================================
+# Windows
+[Dd]esktop.ini
+[Tt]humbs.db
+[Tt]humbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# ==========================================
+# Temporary & Scratch Files
+# ==========================================
+*.tmp
+*.bak
+*.swp
+*~
+*.log
+__pycache__/
+*.pyc

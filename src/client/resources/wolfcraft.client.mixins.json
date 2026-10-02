@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.wolfcraft.client.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"AvatarRendererMixin",
+		"ItemInHandRendererMixin",
+		"AnimationUtilsMixin",
+		"HumanoidModelMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

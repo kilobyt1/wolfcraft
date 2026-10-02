@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "CCC",
+    "LRL",
+    "  I"
+  ],
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "L": "minecraft:lightning_rod",
+    "R": "minecraft:redstone_block",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "wolfcraft:tesla_gun",
+    "count": 1
+  }
+}

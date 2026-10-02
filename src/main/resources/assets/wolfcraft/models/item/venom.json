@@ -1,0 +1,128 @@
+{
+  "credit": "WolfCraft RTCW Venom Gatling 3D Mesh",
+  "textures": {
+    "0": "wolfcraft:item/venom",
+    "particle": "wolfcraft:item/venom"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        6,
+        163,
+        0
+      ],
+      "translation": [
+        0.5,
+        0.0,
+        -3.5
+      ],
+      "scale": [
+        2.2,
+        2.2,
+        2.2
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        6,
+        163,
+        0
+      ],
+      "translation": [
+        0.5,
+        0.0,
+        -3.5
+      ],
+      "scale": [
+        2.2,
+        2.2,
+        2.2
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -5,
+        185,
+        -2
+      ],
+      "translation": [
+        -0.6,
+        -0.5,
+        0.4
+      ],
+      "scale": [
+        1.7,
+        1.7,
+        1.7
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -5,
+        -185,
+        2
+      ],
+      "translation": [
+        0.6,
+        -0.5,
+        0.4
+      ],
+      "scale": [
+        1.7,
+        1.7,
+        1.7
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        90,
+        45
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.45,
+        0.45,
+        0.45
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        90
+      ],
+      "translation": [
+        0,
+        2.0,
+        0
+      ],
+      "scale": [
+        0.45,
+        0.45,
+        0.45
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.5175,
+        0.5175,
+        0.5175
+      ]
+    }
+  }
+}

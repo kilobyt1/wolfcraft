@@ -1,0 +1,128 @@
+{
+  "credit": "WolfCraft RTCW Luger P08 3D Mesh",
+  "textures": {
+    "0": "wolfcraft:item/luger",
+    "particle": "wolfcraft:item/luger"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        6,
+        163,
+        0
+      ],
+      "translation": [
+        0.5,
+        0.0,
+        -2.5
+      ],
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        6,
+        163,
+        0
+      ],
+      "translation": [
+        0.5,
+        0.0,
+        -2.5
+      ],
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        -4,
+        183,
+        -1
+      ],
+      "translation": [
+        -0.78,
+        0.05,
+        -1.45
+      ],
+      "scale": [
+        1.05,
+        1.05,
+        1.05
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        -4,
+        -183,
+        1
+      ],
+      "translation": [
+        0.78,
+        0.05,
+        -1.45
+      ],
+      "scale": [
+        1.05,
+        1.05,
+        1.05
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        90,
+        45
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        90
+      ],
+      "translation": [
+        0,
+        2.0,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.69,
+        0.69,
+        0.69
+      ]
+    }
+  }
+}

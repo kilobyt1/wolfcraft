@@ -1,0 +1,128 @@
+{
+  "knife_slash": {
+    "sounds": ["wolfcraft:knife_slash"]
+  },
+  "knife_hit": {
+    "sounds": ["wolfcraft:knife_hit"]
+  },
+  "mp40_fire": {
+    "sounds": ["wolfcraft:mp40_fire"]
+  },
+  "mp40_reload": {
+    "sounds": ["wolfcraft:mp40_reload"]
+  },
+  "tesla_zap": {
+    "sounds": ["wolfcraft:tesla_zap"]
+  },
+  "tesla_idle": {
+    "sounds": ["wolfcraft:tesla_idle"]
+  },
+  "tesla_loop": {
+    "sounds": ["wolfcraft:tesla_loop"]
+  },
+  "soldier_ambient": {
+    "sounds": [
+      "wolfcraft:soldier_angreif",
+      "wolfcraft:soldier_schnell",
+      "wolfcraft:soldier_swine"
+    ]
+  },
+  "soldier_attack": {
+    "sounds": [
+      "wolfcraft:soldier_attack",
+      "wolfcraft:soldier_angreif"
+    ]
+  },
+  "soldier_hurt": {
+    "sounds": [
+      "wolfcraft:soldier_hurt1",
+      "wolfcraft:soldier_hurt2"
+    ]
+  },
+  "soldier_death": {
+    "sounds": [
+      "wolfcraft:soldier_death1",
+      "wolfcraft:soldier_death2",
+      "wolfcraft:soldier_death_meinleben",
+      "wolfcraft:soldier_death_tesla"
+    ]
+  },
+  "sten_fire": {
+    "sounds": ["wolfcraft:sten_fire"]
+  },
+  "sten_overheat": {
+    "sounds": ["wolfcraft:sten_overheat"]
+  },
+  "sten_reload": {
+    "sounds": ["wolfcraft:sten_reload"]
+  },
+  "venom_fire": {
+    "sounds": ["wolfcraft:venom_fire"]
+  },
+  "venom_spinup": {
+    "sounds": ["wolfcraft:venom_spinup"]
+  },
+  "venom_spindown": {
+    "sounds": ["wolfcraft:venom_spindown"]
+  },
+  "venom_overheat": {
+    "sounds": ["wolfcraft:venom_overheat"]
+  },
+  "panzerfaust_fire": {
+    "sounds": ["wolfcraft:panzerfaust_fire"]
+  },
+  "panzerfaust_fly": {
+    "sounds": ["wolfcraft:panzerfaust_fly"]
+  },
+  "panzerfaust_explode": {
+    "sounds": ["wolfcraft:panzerfaust_explode"]
+  },
+  "mauser_fire": {
+    "sounds": ["wolfcraft:mauser_fire"]
+  },
+  "mauser_eject": {
+    "sounds": ["wolfcraft:mauser_eject"]
+  },
+  "mauser_reload": {
+    "sounds": ["wolfcraft:mauser_reload"]
+  },
+  "thompson_fire": {
+    "sounds": ["wolfcraft:thompson_fire"]
+  },
+  "thompson_reload": {
+    "sounds": ["wolfcraft:thompson_reload"]
+  },
+  "colt_fire": {
+    "sounds": ["wolfcraft:colt_fire"]
+  },
+  "colt_reload": {
+    "sounds": ["wolfcraft:colt_reload"]
+  },
+  "luger_fire": {
+    "sounds": ["wolfcraft:luger_fire"]
+  },
+  "luger_reload": {
+    "sounds": ["wolfcraft:luger_reload"]
+  },
+  "flamethrower_start": {
+    "sounds": ["wolfcraft:flamethrower_start"]
+  },
+  "flamethrower_fire": {
+    "sounds": ["wolfcraft:flamethrower_fire"]
+  },
+  "flamethrower_end": {
+    "sounds": ["wolfcraft:flamethrower_end"]
+  },
+  "grenade_throw": {
+    "sounds": ["wolfcraft:grenade_throw"]
+  },
+  "grenade_bounce": {
+    "sounds": ["wolfcraft:grenade_bounce"]
+  },
+  "grenade_explode": {
+    "sounds": ["wolfcraft:grenade_explode"]
+  },
+  "medkit_use": {
+    "sounds": ["wolfcraft:medkit_use"]
+  }
+}
